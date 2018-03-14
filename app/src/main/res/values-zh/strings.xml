@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">安卓打印機</string>
+
+    <string name="test_printer">打印機測試</string>
+
+    <string name="print_text_btn">文本打印測試</string>
+    <string name="print_img_btn">圖片打印測試</string>
+
+</resources>

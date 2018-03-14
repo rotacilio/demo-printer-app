@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">A_Printer</string>
+
+    <string name="test_printer">Test Printer</string>
+
+    <string name="print_text_btn">Print Text</string>
+    <string name="print_img_btn">Print Image</string>
+</resources>
